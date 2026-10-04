@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Fares Alkhawaja: Applied AI, researched, built and taught">
+  <defs>
+    <radialGradient id="glow" cx="85%" cy="15%" r="70%">
+      <stop offset="0" stop-color="#5fae8b" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#5fae8b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#f6f8f6"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <g fill="#1f6b4f">
+    <circle cx="760" cy="96" r="2.2" opacity=".35"/><circle cx="792" cy="120" r="1.6" opacity=".3"/><circle cx="826" cy="88" r="2.4" opacity=".45"/>
+    <circle cx="858" cy="132" r="1.8" opacity=".35"/><circle cx="890" cy="104" r="2.6" opacity=".5"/><circle cx="924" cy="150" r="2" opacity=".4"/>
+    <circle cx="958" cy="118" r="2.8" opacity=".55"/><circle cx="992" cy="168" r="2.2" opacity=".45"/><circle cx="1026" cy="140" r="3" opacity=".6"/>
+    <circle cx="1060" cy="190" r="2.4" opacity=".5"/><circle cx="1094" cy="160" r="2.8" opacity=".55"/><circle cx="1128" cy="206" r="2" opacity=".4"/>
+    <circle cx="806" cy="196" r="1.8" opacity=".3"/><circle cx="872" cy="218" r="2.2" opacity=".35"/><circle cx="940" cy="236" r="2.6" opacity=".45"/>
+    <circle cx="1008" cy="226" r="2" opacity=".4"/><circle cx="1076" cy="244" r="2.4" opacity=".45"/>
+  </g>
+  <circle cx="64" cy="70" r="5" fill="#1f6b4f"/>
+  <text x="80" y="75" font-family="Consolas, 'JetBrains Mono', monospace" font-size="15" letter-spacing="3" fill="#1f6b4f">AI ENGINEER · SOLUTIONS ARCHITECT · RESEARCHER · EDUCATOR</text>
+  <text x="60" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#14191a">Fares Alkhawaja</text>
+  <text x="60" y="205" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#4e5757">Applied AI, researched, built <tspan fill="#1f6b4f" font-weight="700">and taught.</tspan></text>
+  <rect x="60" y="232" width="96" height="4" rx="2" fill="#5fae8b"/>
+  <text x="60" y="270" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#7d8686">Montreal, Canada · falkhawaja.com</text>
+</svg>
