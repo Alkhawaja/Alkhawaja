@@ -13,7 +13,7 @@
 
 I work where research, production engineering and teaching meet, and each one makes the others better.
 
-| | |
+| Role | What I do |
 | --- | --- |
 | 🔬 **Research** | PhD, Concordia University (FRQNT). The Nested Dirichlet Distribution for interpretable hierarchical models; 10 peer-reviewed papers (IEEE, Springer, ICONIP); reviewer for NeurIPS, AAAI and ICONIP. |
 | 🏗️ **Production** | AI Engineering Advisor at Desjardins. Agentic RAG and multi-agent systems, API gateways and secure AI environments, data pipelines and cloud architecture on Azure, AWS and GCP. |
